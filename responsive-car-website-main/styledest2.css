@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color:hsl(189, 69%, 56%);
+}
+
+div{
+width:auto;
+height:auto;
+}
+h1{
+    color: aliceblue;
+    
+}
+.popular__img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+.title{
+    background-color: green;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.ri-money-rupee-circle-fill{
+    color: rgb(9, 94, 9);
+    
+}
+.ri-speed-up-fill{
+    color:rgb(9, 94, 9);
+}
+.ri-caravan-fill{
+    color:rgb(9, 94, 9);
+}
+
+.ri-charging-pile-fill{
+    color:rgb(9, 94, 9);
+}
